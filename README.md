@@ -1,4 +1,4 @@
-[![logo](./assets/logo.png)](https://github.com/fuvty/fuvty/blob/main/assets/logo.png)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=TianYu&fontSize=40&animation=fadeIn&fontAlignY=25&desc=Hi,%20how's%20everything&descAlignY=47" />
 
 Hi 👋
 
