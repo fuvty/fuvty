@@ -1,4 +1,4 @@
-[![logo](./.assets/logo.png)]()
+[![logo](./assets/logo.png)](https://github.com/fuvty/fuvty/blob/main/assets/logo.png)
 
 Hi 👋
 
