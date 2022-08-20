@@ -2,7 +2,7 @@
 
 Hi 👋
 
-I’m Tianyu Fu, an undergraduate student in Tsinghua University. I’m a member of [NICS-EFC Lab](http://nicsefc.ee.tsinghua.edu.cn). My research interest lies in graph analysis, graph neural network, and general sparse computation.
+I’m Tianyu Fu, a Ph.D. student supervised by Prof. Yu Wang. I’m a member of [NICS-EFC Lab](http://nicsefc.ee.tsinghua.edu.cn). My research interest lies in graph analysis, graph neural network, and general sparse computation.
 
 Welcome to new friends, please don’t hesitate to reach out 🤗
 
