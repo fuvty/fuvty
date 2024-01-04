@@ -6,4 +6,4 @@ I’m Tianyu Fu (傅天予), a Ph.D. student supervised by Prof. Yu Wang. I’m 
 
 Welcome to new friends, please don’t hesitate to reach out 🤗
 
-Want to know more about me ? Check out my [profile](http://nicsefc.ee.tsinghua.edu.cn/people/TianyuFu) and [recent events](https://www.notion.so/fuvty/Homepage-55f41fe192df49379ea39b69e8fc08f3).
+Want to know more about me ? Check out my [recent events](https://fuvty.simple.ink/) and [profile](http://nicsefc.ee.tsinghua.edu.cn/people/TianyuFu) 
