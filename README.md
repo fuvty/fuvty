@@ -8,4 +8,4 @@ My research interests lie in efficient large language models and sparse computat
 
 I welcome new friends and collaborators. Please don’t hesitate to reach out 🤗
 
-Want to know more about me? Check out my [recent events](https://fuvty.thesimple.ink/) and [profile](http://nicsefc.ee.tsinghua.edu.cn/people/TianyuFu)
+Want to know more about me? Check out my [recent events](https://fuvty.thesimple.ink/) and [profile](http://nicsefc.ee.tsinghua.edu.cn/people/TianyuFu).
