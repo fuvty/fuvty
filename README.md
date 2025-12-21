@@ -8,4 +8,4 @@ My research interests lie in efficient large language models and sparse computat
 
 I welcome new friends and collaborators. Please don’t hesitate to reach out 🤗
 
-Want to know more about me? Check out my [twitter](twitter), [rednote](https://www.xiaohongshu.com/user/profile/5891d8ff5e87e7758a7b0d6b) or [profile](http://nicsefc.ee.tsinghua.edu.cn/people/TianyuFu).
+Want to know more about me? Check out my [Twitter](https://x.com/fuvty123), [RedNote](https://www.xiaohongshu.com/user/profile/5891d8ff5e87e7758a7b0d6b), or [Profile](http://nicsefc.ee.tsinghua.edu.cn/people/TianyuFu).
