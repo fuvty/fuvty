@@ -4,7 +4,9 @@ Hi 👋
 
 I’m **Tianyu Fu (傅天予)**, a Ph.D. student at Tsinghua University, [NICS-EFC Lab](http://nicsefc.ee.tsinghua.edu.cn/), supervised by Prof. [Yu Wang](https://nicsefc.ee.tsinghua.edu.cn/people/YuWang). I obtained my bachelor’s degree from Tsinghua University in 2022.
 
-My research interests lie in efficient long context large language models. I welcome new friends and collaborators. Please don’t hesitate to reach out 🤗
+My research interests lie in efficient long context large language models, check out our latest work [here](https://fuvty.github.io/R2R_Project_Page/). Currently an intern at ByteDance Seed LLM model architecture team.
+
+I welcome new friends and collaborators. Please don’t hesitate to reach out 🤗
 
 Want to know more about me? Check out my [Twitter](https://x.com/fuvty123), [RedNote](https://www.xiaohongshu.com/user/profile/5891d8ff5e87e7758a7b0d6b), or [Profile](http://nicsefc.ee.tsinghua.edu.cn/people/TianyuFu). Feel free to explore featured projects from me and my amazing collaborators:
 
